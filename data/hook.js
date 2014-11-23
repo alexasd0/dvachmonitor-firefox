@@ -1,5 +1,3 @@
-console.log("hook.js file +++++++");
-
 if(window.thread.id) {
 	console.log("hooks.js "+window.thread.id);
 	var data = {
